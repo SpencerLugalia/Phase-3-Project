@@ -5,8 +5,6 @@ SYRIATEL CHURN
 ## Overview
 In order to use classification prediction machine learning modelling approaches to predict the possibility that a client will stop doing business with SyriaTel within a specified time frame, this study looks at a dataset from the telecom company. In the telco sector, this is known as **Churn**.Large marketing expenditures, such as commissions to sales representatives and advertising budgets, are necessary to acquire new clients. Therefore, once those clients are acquired, it becomes essential to keep them. Understanding the traits or attributes of a customer who is likely to "churn" is what drives any telco company. With this knowledge, the business may anticipate issues and create campaigns that specifically target certain clients to deter them from doing business with the company
 
-## Business Understanding
-To diversify its portfolio, your organisation is growing into Movie industry. They want to create a new movie studio, but they have no idea what the possible risks associated with the film industry. We are charged with exploring extensive indepth about the work arounds of the film industry and determine which types of films are currently doing the best at the box office. This must lead to actionable insights that when we present to the head of the new 2 Studios Production Inc we can use to help identify what type of films to create.
 
 ## Data Understanding and Analysis
 
