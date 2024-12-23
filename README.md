@@ -65,16 +65,21 @@ Definition of Column Names:
 
 ### Exploratory Data Analysis
 EDA revealed key insights into churn patterns:
-- Detecting Outliers: Detect outliers in numerical features, helping visualize data distribution and identify extreme values that could impact analysis or modeling.
-![Outliers](https://github.com/SpencerLugalia/Group-2-Project/blob/main/Images/Data%20Head.png)
+
+Detecting Outliers: Detect outliers in numerical features, helping visualize data distribution and identify extreme values that could impact analysis or modeling.
+
+![Outliers](https://github.com/SpencerLugalia/Phase-3-Project/blob/main/Images/Checking%20for%20Outliers.png)
 
 Multicollinearity of data Removing highly correlated features that may not provide additional useful information for modeling.
-![Correlation Matrix](https://github.com/SpencerLugalia/Group-2-Project/blob/main/Images/Data%20Head.png)
+
+![Correlation Matrix](https://github.com/SpencerLugalia/Phase-3-Project/blob/main/Images/Correlation%20Matrix%20Heatmap%20after%20dropping%20columns.png)
 
 Distribution of the numerical features: Analyzing the numerical features distributions
-![Distribution of Numerical features](https://github.com/SpencerLugalia/Group-2-Project/blob/main/Images/Data%20Head.png)
+
+![Distribution of Numerical features](https://github.com/SpencerLugalia/Phase-3-Project/blob/main/Images/Distribution%20of%20Continuous%20Features.png)
 
 ## The Model
+
 -Models developed include:
     - Logistic Regression
     - Random Forest
